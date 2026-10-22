@@ -1,6 +1,6 @@
 # 👨‍💻 Portfólio de Projetos — Iordan Valério
 
-Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas na Universidade Estadual da Paraíba (UEPB)** e estou desenvolvendo minhas habilidades em programação e desenvolvimento de software por meio de projetos acadêmicos e pessoais.
+Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas na Universidade Estadual da Paraíba (UEPB)** e estou desenvolvendo minhas habilidades em programação e desenvolvimento de software através de projetos acadêmicos e pessoais.
 
 Este repositório reúne alguns dos projetos que desenvolvi durante minha trajetória de aprendizado, apresentando seus objetivos, funcionalidades e tecnologias utilizadas.
 
