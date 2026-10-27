@@ -21,7 +21,7 @@ Aplicação web desenvolvida como projeto final do curso **CS50 Web Programming 
 - HTML e CSS
 - Um pouco de JavaScript
 
-🔗 **Repositório:** [Adicionar link do Health Track]
+🔗 **Repositório:** https://github.com/IordanValerio/healthtrack.git
 
 ---
 
